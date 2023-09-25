@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/ghpagestest/static/js/main.f977f046.chunk.js",
-    "main.js.map": "/ghpagestest/static/js/main.f977f046.chunk.js.map",
-    "runtime-main.js": "/ghpagestest/static/js/runtime-main.35ae5fa5.js",
-    "runtime-main.js.map": "/ghpagestest/static/js/runtime-main.35ae5fa5.js.map",
-    "static/js/2.96f96f99.chunk.js": "/ghpagestest/static/js/2.96f96f99.chunk.js",
-    "static/js/2.96f96f99.chunk.js.map": "/ghpagestest/static/js/2.96f96f99.chunk.js.map",
-    "index.html": "/ghpagestest/index.html",
-    "static/js/2.96f96f99.chunk.js.LICENSE.txt": "/ghpagestest/static/js/2.96f96f99.chunk.js.LICENSE.txt"
+    "main.js": "/nxt-watch-user/static/js/main.f977f046.chunk.js",
+    "main.js.map": "/nxt-watch-user/static/js/main.f977f046.chunk.js.map",
+    "runtime-main.js": "/nxt-watch-user/static/js/runtime-main.709d208e.js",
+    "runtime-main.js.map": "/nxt-watch-user/static/js/runtime-main.709d208e.js.map",
+    "static/js/2.96f96f99.chunk.js": "/nxt-watch-user/static/js/2.96f96f99.chunk.js",
+    "static/js/2.96f96f99.chunk.js.map": "/nxt-watch-user/static/js/2.96f96f99.chunk.js.map",
+    "index.html": "/nxt-watch-user/index.html",
+    "static/js/2.96f96f99.chunk.js.LICENSE.txt": "/nxt-watch-user/static/js/2.96f96f99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35ae5fa5.js",
+    "static/js/runtime-main.709d208e.js",
     "static/js/2.96f96f99.chunk.js",
     "static/js/main.f977f046.chunk.js"
   ]
